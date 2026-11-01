@@ -374,12 +374,6 @@ Status labels describe the documented implementation plan and should be updated 
 
 <div align="center">
 
-💜 A LITTLE DATA. A LOT OF PERSONALITY. A WHOLE LOT OF EXPERIMENTATION.
-
-Turning conversational behavior into training data, and training data into measurable model adaptations.
-
-<br/>
-
-Built with curiosity, questionable amounts of purple, and an unreasonable number of conversations. 🌸
+Amanda Hatley @ studio keito / keito.studio.uk
 
 </div>
