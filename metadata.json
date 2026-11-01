@@ -1,0 +1,6 @@
+{
+  "name": "Tinman & Gemini Fine-Tuning Lab",
+  "description": "SQLite multi-model Gemini corpus workbench, SFT/DPO dataset studio, Tinman Gemma 4 E4B IT LoRA architect, 5-stage lineage registry, and 6-dimension evaluation harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --bg-cosmos-deep: #26104B;
+  --bg-cosmos-mid: #4B1E8A;
+  --bg-violet-primary: #6D28D9;
+  --panel-lavender: #DFC5FE;
+  --panel-lilac-soft: #F3E8FF;
+  --surface-warm-cream: #FFF8EC;
+  --surface-cream-elevated: #FFFDF8;
+  --ink-deep-plum: #2A114B;
+  --ink-muted-plum: #5C3B88;
+  --accent-bubblegum: #FF5CA8;
+  --accent-hot-pink: #F43F8E;
+  --accent-soft-gold: #FDE047;
+  --status-mint: #A7F3D0;
+  --status-coral: #FECDD3;
+}
+
+body {
+  font-family: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: radial-gradient(circle at 18% 12%, #6D32B8 0%, #3E187A 48%, #220C47 100%);
+  color: var(--ink-deep-plum);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: 'Fredoka', 'Nunito', sans-serif;
+}
+
+code, pre, .font-mono, .tabular-nums {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom Scrollbar in Kawaii Plum/Lavender style */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F3E8FF;
+  border-left: 2px solid #2A114B;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C084FC;
+  border: 2px solid #2A114B;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FF5CA8;
+}
